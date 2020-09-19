@@ -1,0 +1,1 @@
+This is Sean Millers first Git project. 
